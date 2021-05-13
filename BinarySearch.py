@@ -19,3 +19,4 @@ def BS(arr,x,L=0,R=0):
         print('Not present')
 
 BS([1,2,3,4],2.5)
+
