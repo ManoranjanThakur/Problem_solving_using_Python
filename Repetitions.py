@@ -1,4 +1,3 @@
-
 def Repetitions(arr):
     count=1
     maximum=1
