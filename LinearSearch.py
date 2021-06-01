@@ -5,3 +5,4 @@ def LS(arr,x):
             return
     print('Not present')
 LS([1,2,3,4],7)
+
