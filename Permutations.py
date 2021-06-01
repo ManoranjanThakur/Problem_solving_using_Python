@@ -2,7 +2,6 @@ def permutations(word):
     if len(word)==1:
         return([word])
     
-    
     perms=permutations(word[1:])
     char=word[0]
     result=[]
