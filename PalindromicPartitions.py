@@ -18,6 +18,7 @@ def allPalPartUtil(allPart: list, currPart: list,start: int, n: int, string: str
                             i + 1, n, string)
             currPart.pop()
 
+            
 def allPalPartitions(string: str): 
     n = len(string)
     allPart = []
