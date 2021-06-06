@@ -11,5 +11,4 @@ def Repetitions(arr):
                 count=1
     return maximum
 
-
 print(Repetitions(input()))
