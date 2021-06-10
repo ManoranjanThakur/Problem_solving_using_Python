@@ -9,4 +9,5 @@ def recur(A):
         else:
             total=total+i
     return total
+
 print(recur(A))
