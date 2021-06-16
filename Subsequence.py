@@ -16,4 +16,3 @@ def subseq(word):
     return result
 
 print(subseq(b))
-
