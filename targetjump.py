@@ -1,6 +1,5 @@
 t=-7
 
-
 def recur(t,prev=0,step=1):
     if prev==t:
         return step
