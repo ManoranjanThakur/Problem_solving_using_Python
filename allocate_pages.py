@@ -23,5 +23,5 @@ def allocate(arr,key):
         else:
             start=mid+1
     return res
-arr=[10,20,30,40,50]
-print(allocate(arr,2))
+arr=[1,2,3,4,5,6,7,8,9,10]
+print(allocate(arr,5))
