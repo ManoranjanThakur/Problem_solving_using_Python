@@ -20,7 +20,7 @@ def binary_search(arr):
         next=(mid+1)%N
         prev=(mid+N-1)%N
         if arr[mid]<arr[next] and arr[mid]<arr[prev]:
-            return N
+            return mid
         elif (arr[mid]>arr[0]):
             start=mid+1
         else:
