@@ -7,6 +7,5 @@ def recurf(A):
     return recurf(A[1:])
 print(recurf(A))
 
-
 B='work'
 print(recurf(B))
