@@ -6,6 +6,5 @@ def recurf(A):
         return A[0]
     return recurf(A[1:])
 print(recurf(A))
-
 B='work'
 print(recurf(B))
