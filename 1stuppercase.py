@@ -8,4 +8,3 @@ def recurf(A):
 print(recurf(A))
 B='work'
 print(recurf(B))
-
